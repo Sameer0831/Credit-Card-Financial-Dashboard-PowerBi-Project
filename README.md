@@ -6,8 +6,6 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 ## Project Insights:
 
-Here are the reframed bullet points with elaboration where possible:
-
 - **Increased Revenue**: Experienced a significant increase in revenue by 28.8%, reflecting positive growth in financial performance.
 - **Overall Revenue**: Achieved a substantial total revenue of $57 million, indicating robust financial health and profitability.
 - **Total Interest**: Earned a noteworthy total interest of $8 million, showcasing the income generated from financial products and services.
